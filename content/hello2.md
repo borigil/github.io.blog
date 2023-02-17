@@ -1,17 +1,13 @@
 ---
-title: 첫번째 게시물
-description: 이것은 첫번째 게시물 설명입니다.
-category: coding
+title: 세번째 게시물
+description: 이것은 세번째 게시물 설명입니다.
+category: yutube
 tags:
   - Nuxt.js
   - Javascript
   - Tutorial
 ---
 
-첫번째 게시물
-
-Introduce myself text
-Introduce myself text
 Introduce myself text
 
 <!--more-->

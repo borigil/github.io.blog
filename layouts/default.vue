@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <TheNavigation />
     <v-main>
       <v-container>
         <Nuxt />
@@ -9,7 +10,7 @@
 </template>
 <script>
 export default {
-  
+  name: 'DefalutLayout',
 }
 </script>
 <style>
